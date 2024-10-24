@@ -1,0 +1,3 @@
+/media/axian/Data Storage/02_Zachs_Storage/cppTorchNN/CMakeFiles/torchtest.dir
+/media/axian/Data Storage/02_Zachs_Storage/cppTorchNN/CMakeFiles/edit_cache.dir
+/media/axian/Data Storage/02_Zachs_Storage/cppTorchNN/CMakeFiles/rebuild_cache.dir
