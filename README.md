@@ -54,7 +54,7 @@ NVidia GPU
 
 1. Clone the Repo
 ```sh
-git clone https://github.com/zjshermanburke/TransferLearning_VGG19
+git clone https://github.com/zjshermanburke/cppTorchNN
 ```
 2. Update CMakeLists.txt with your directories
 3. Verify functionality by running in IDE (this project was built and run in VS code on Ubuntu)
