@@ -84,7 +84,7 @@ Project Link: [https://github.com/zjshermanburke/TransferLearning_VGG19](https:/
 
 <!-- GitHub and LinkedIn-->
 [contributors-shield]: https://img.shields.io/github/contributors/zjshermanburke/FineTuningBert.svg?style=for-the-badge
-[contributors-url]: https://github.com/zjshermanburke/FineTuningBert/graphs/contributors
+[contributors-url]: https://github.com/zjshermanburke/cppTorchNN/graphs/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/zjshermanburke/cppTorchNN.svg?style=for-the-badge
 [forks-url]: https://github.com/zjshermanburke/cppTorchNN/network/members
